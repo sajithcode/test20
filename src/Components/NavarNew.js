@@ -25,7 +25,7 @@ export default function NavarNew() {
               <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/3.4">
-                Separated link
+                Separated linkfd
               </NavDropdown.Item>
             </NavDropdown>
           </Nav>
